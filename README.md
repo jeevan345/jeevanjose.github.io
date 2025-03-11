@@ -1,4 +1,4 @@
-# jeevanjose.github.io
+# jeevan345.github.io
 Jeevan Jose's personal portfolio of Projects
 
 ###Data Scientist
